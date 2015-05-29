@@ -1,2 +1,2 @@
 # Alarm-Android
-Alarm çaldığında rastgele basit bir matematik denklemi oluşturup doğru cevaplanana kadar susmayan android uygulaması.
+Alarm çaldığında rastgele basit bir matematik denklemi oluşturup doğru cevaplandığında susan android uygulaması.
